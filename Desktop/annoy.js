@@ -786,7 +786,7 @@ Note that the value of particle1.mass can thereafter be changed independently of
 default value inherited from Particle.prototype.mass,
     for example:
 
-    particle1.mass = 2; // returns 2
+    particle.mass = 2; // returns 2
 Particle.prototype.mass; // returns 1;
 
 Other properties can be added to the instance and do not, of course, propagate to the parent object or to other instances.For example, this line:
@@ -795,3 +795,93 @@ Other properties can be added to the instance and do not, of course, propagate t
 
 adds a new property called spin to particle1 and gives it the value of 0. Other instances of Particle will not have that property by
 default.
+
+// --------------------------------------------------
+// changing google logo :P
+
+var logo = document.getElementById('hplogo');
+
+logo.srcset = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qxBr_f2zPlQ7HL9Ach-6sHMJLIcZxkIJYYmNDwkKm2zXj5jJK3NgnuTu8g";
+
+or you can do it the way you're trying to do it and use setAttribute with srcset like so:
+
+var logo = document.getElementById('hplogo');
+
+logo.setAttribute("srcset","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qxBr_f2zPlQ7HL9Ach-6sHMJLIcZxkIJYYmNDwkKm2zXj5jJK3NgnuTu8g");
+
+// -------------------------------------------------------------------
+// Event listening examples -------------------------------------------
+
+element.addEventListener(type, functionToCall);
+// An Example
+// Let's display a message when a button is clicked
+var button = document.querySelector("button");
+var paragraph = document.querySelector("p");
+
+//SETUP CLICK LISTENER
+button.addEventListener("click", function() {
+  paragraph.textContent = "Someone Clicked the Button!";
+}); 
+
+
+<button>Click Me</button>
+<p>No One Has Clicked Me Yet</p>
+// An Example
+// We could also rewrite it using a named function
+var button = document.querySelector("button");
+var paragraph = document.querySelector("p");
+
+button.addEventListener("click", changeText);
+
+function changeText() {
+  paragraph.textContent = "Someone Clicked the Button!";
+}
+// ------------        -----------------          ------------------
+//SETUP MOUSE OVER LISTENER
+var paragraph = document.querySelector("p");
+
+paragraph.addEventListener("mouseover", function() {
+  paragraph.textContent = "Stop hovering over me!";
+});
+//SETUP MOUSE OUT LISTENER
+paragraph.addEventListener("mouseout", function() {
+  paragraph.textContent = "Phew, thank you for leaving me alone";
+});
+
+// alternative with this ------>
+var paragraph = document.querySelector("p");
+//SETUP MOUSE OVER LISTENER
+paragraph.addEventListener("mouseover", function() {
+  this.textContent = "Stop hovering over me!";
+});
+
+//SETUP MOUSE OUT LISTENER
+paragraph.addEventListener("mouseout", function() {
+  this.textContent = "Phew, thank you for leaving me alone";
+});
+
+// --------------------------------------------------
+// COLOR CHANGER FUNCTION WITH EVENT LISTENER 
+
+var button = document.querySelector("button");
+var div = document.querySelector("div");
+var isRed = false;
+        
+button.addEventListener("click", function(){
+    if(isRed) {
+        div.style.background = "blue";
+        // isRed = false;
+    } else {
+        div.style.background = "red";
+        // isRed= true;
+    }
+    isRed = !isRed;
+});
+
+// OR
+
+// function classToggle() {
+//     this.classList.toggle('blue');   // or   // div.classList.toggle('blue');
+//     this.classList.toggle('red');            // div.classList.toggle('red');
+// }
+// document.querySelector('div').addEventListener('click', classToggle);
