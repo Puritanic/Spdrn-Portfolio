@@ -28,11 +28,70 @@
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Spdrn-1-tribute_page/lightbox/examples/index.html" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Spdrn-1-tribute_page/lightbox/package.json" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Spdrn-1-tribute_page/lightbox/src/js/lightbox.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/DEPLOY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/ROADMAP.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/css/lightbox.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/images/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox-plus-jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox-plus-jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox-plus-jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/dist/js/lightbox.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/Spdrn-1-tribute_page/lightbox/src/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/annoy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Desktop/annoy.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/Spdrn-Portfolio.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/TOC.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/css.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/extend.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/faq.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/html.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/js.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/misc.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/doc/usage.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/img/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/js/vendor/jquery-1.12.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/js/vendor/modernizr-2.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/tile-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Spdrn-Portfolio/tile.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,6 +214,7 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -743,16 +803,23 @@
       <option name="presentableId" value="Default" />
       <updated>1493128181374</updated>
       <workItem from="1493128185817" duration="3982000" />
-      <workItem from="1493134413272" duration="18714000" />
+      <workItem from="1493134413272" duration="19324000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated Projects page">
+      <created>1493198902132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493198902132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22696000" />
+    <option name="totallyTimeSpent" value="23306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -762,11 +829,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
@@ -821,6 +888,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Projects page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Projects page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
