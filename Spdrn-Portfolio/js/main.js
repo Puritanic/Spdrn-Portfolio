@@ -1,3 +1,13 @@
-var project = document.querySelector('.project1');
 
-project.style.transition
+mobileMenu:function(){
+
+
+    $('#mobile-link').click(function(){
+
+        $('#nav_bar nav').toggleClass('show');
+
+        return false;
+
+    });
+
+}
